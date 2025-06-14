@@ -27,7 +27,7 @@ const Hero: React.FC = () => {
                 Get in touch <ArrowRight size={18} />
               </a>
               <a
-                href="https://drive.google.com/file/d/1i91c7agv2qVki5AekQhlTkTtnvG2Njer/view?usp=sharing" 
+                href="https://drive.google.com/file/d/1FiWrbi5kFJnkx4yeKy_fQnYqsAzVJ1DM/view?usp=sharing" 
                 className="px-6 py-3 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 text-gray-900 dark:text-white font-medium rounded-lg transition-colors flex items-center gap-2"
               >
                 Download CV <Download size={18} />
