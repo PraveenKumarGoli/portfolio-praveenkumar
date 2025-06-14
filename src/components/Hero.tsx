@@ -38,7 +38,10 @@ const Hero: React.FC = () => {
             <div className="relative">
               <div className="w-64 h-64 sm:w-80 sm:h-80 rounded-full bg-gradient-to-tr from-blue-600 to-teal-400 blur-3xl opacity-20 dark:opacity-30 absolute -top-10 -right-10 animate-pulse"></div>
               <div className="w-72 h-72 sm:w-96 sm:h-96 bg-gray-200 dark:bg-gray-700 rounded-3xl overflow-hidden relative transition-colors">
-               <img src="https://lh3.googleusercontent.com/pw/AP1GczOJ9ZJPh1XRjuNY9yb7SMPlHcnT0FJLCFKHsyDsKgM-BQSzGIUZMXHs_nTvIJsQcc8ZCX2XLnGohmt7LVrG2puoPyIr7tJHvcKsenT3gYvog9fUBe4Hj_rA6h60iAme_k3Z1gBa-C_CH1ubSi5eshY=w1024-h1024-s-no-gm?authuser=0" alt="Praveen Kumar Goli - Full Stack Developer" class="">
+               {/* Replace with actual image */}
+                <div className="absolute inset-0 flex items-center justify-center text-gray-400 dark:text-gray-500">
+                  Profile Image
+                </div>
               </div>
               <div className="absolute -bottom-6 -right-6 bg-white dark:bg-gray-800 rounded-2xl p-4 shadow-lg transition-colors">
                 <div className="flex items-center gap-2">
