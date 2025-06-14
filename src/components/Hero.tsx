@@ -26,12 +26,7 @@ const Hero: React.FC = () => {
               >
                 Get in touch <ArrowRight size={18} />
               </a>
-              <a
-                href="#"
-                className="px-6 py-3 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 text-gray-900 dark:text-white font-medium rounded-lg transition-colors flex items-center gap-2"
-              >
-                Download CV <Download size={18} />
-              </a>
+              <a href="https://drive.google.com/file/d/1i91c7agv2qVki5AekQhlTkTtnvG2Njer/view?usp=sharing" class="px-6 py-3 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 text-gray-900 dark:text-white font-medium rounded-lg transition-colors flex items-center gap-2">Download CV <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-download "><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" x2="12" y1="15" y2="3"></line></svg></a>
             </div>
           </div>
           <div className="order-1 lg:order-2 flex justify-center animate-fade-in">
@@ -40,7 +35,7 @@ const Hero: React.FC = () => {
               <div className="w-72 h-72 sm:w-96 sm:h-96 bg-gray-200 dark:bg-gray-700 rounded-3xl overflow-hidden relative transition-colors">
                 {/* Replace with actual image */}
                 <div className="absolute inset-0 flex items-center justify-center text-gray-400 dark:text-gray-500">
-                  Profile Image
+                 <img src="https://lh3.googleusercontent.com/pw/AP1GczOJ9ZJPh1XRjuNY9yb7SMPlHcnT0FJLCFKHsyDsKgM-BQSzGIUZMXHs_nTvIJsQcc8ZCX2XLnGohmt7LVrG2puoPyIr7tJHvcKsenT3gYvog9fUBe4Hj_rA6h60iAme_k3Z1gBa-C_CH1ubSi5eshY=w1024-h1024-s-no-gm?authuser=0" alt="Praveen Kumar Goli - Full Stack Developer" class="">
                 </div>
               </div>
               <div className="absolute -bottom-6 -right-6 bg-white dark:bg-gray-800 rounded-2xl p-4 shadow-lg transition-colors">
