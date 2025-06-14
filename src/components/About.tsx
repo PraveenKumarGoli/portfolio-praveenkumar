@@ -21,7 +21,6 @@ const About: React.FC = () => {
               <div className="w-full h-96 bg-gray-200 dark:bg-gray-700 rounded-2xl overflow-hidden transition-colors">
                <img src="https://images.gr-assets.com/quotes/1431708227p8/833.jpg" alt="Praveen Kumar Goli - Full Stack Developer">
                 <div className="absolute inset-0 flex items-center justify-center text-gray-400 dark:text-gray-500">
-                  About Image
                 </div>
               </div>
               <div className="absolute -bottom-6 -left-6 bg-white dark:bg-gray-800 rounded-2xl p-4 shadow-lg max-w-xs transition-colors">
