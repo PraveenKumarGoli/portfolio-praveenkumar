@@ -19,7 +19,7 @@ const About: React.FC = () => {
           <div className="animate-fade-in-left">
             <div className="relative">
               <div className="w-full h-96 bg-gray-200 dark:bg-gray-700 rounded-2xl overflow-hidden transition-colors">
-               
+               <img src="https://images.gr-assets.com/quotes/1431708227p8/833.jpg" alt="Praveen Kumar Goli - Full Stack Developer">
                 <div className="absolute inset-0 flex items-center justify-center text-gray-400 dark:text-gray-500">
                   About Image
                 </div>
