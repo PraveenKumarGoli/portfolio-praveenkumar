@@ -13,7 +13,7 @@ import './utils/animations.css';
 function App() {
   useEffect(() => {
     // Update page title
-    document.title = 'Jessica Chen | Frontend Developer';
+    document.title = 'Praveen Kumar Goli | Full Stack LLM Development Senior Analyst';
 
     // IntersectionObserver for scroll animations
     const observer = new IntersectionObserver(
