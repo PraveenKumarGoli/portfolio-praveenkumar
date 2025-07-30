@@ -8,18 +8,19 @@ interface Skill {
 
 const Skills: React.FC = () => {
   const technicalSkills: Skill[] = [
-    { name: 'ASP .Net MVC', level: 85, color: 'bg-blue-600' },
-    { name: '.Net', level: 90, color: 'bg-blue-600' },
-    { name: 'Java', level: 95, color: 'bg-blue-600' },
+    { name: 'ASP .Net MVC', level: 90, color: 'bg-blue-600' },
+    { name: '.Net', level: 85, color: 'bg-blue-600' },
+    { name: 'Java', level: 90, color: 'bg-blue-600' },
+    { name: 'Python', level: 90, color: 'bg-blue-600' },
     { name: 'MS SQL', level: 95, color: 'bg-blue-600' },
-    { name: 'Gen AI Prompts', level: 80, color: 'bg-blue-600' },
-    { name: 'Angular', level: 75, color: 'bg-blue-600' },
-    { name: 'React', level: 95, color: 'bg-blue-600' },
-    { name: 'TypeScript', level: 90, color: 'bg-blue-600' },
+    { name: 'Gen AI Prompts', level: 90, color: 'bg-blue-600' },
+    { name: 'Angular', level: 85, color: 'bg-blue-600' },
+    { name: 'React', level: 85, color: 'bg-blue-600' },
+    { name: 'TypeScript', level: 85, color: 'bg-blue-600' },
     { name: 'HTML/CSS', level: 95, color: 'bg-blue-600' },
     { name: 'JavaScript', level: 90, color: 'bg-blue-600' },
     { name: 'NextJS', level: 85, color: 'bg-blue-600' },
-    { name: 'CSS', level: 60, color: 'bg-blue-600' },
+    { name: 'CSS', level: 80, color: 'bg-blue-600' },
   ];
 
   const softSkills: string[] = [
