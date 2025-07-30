@@ -26,6 +26,8 @@ const Projects: React.FC = () => {
     : projects.filter(project => project.tags.includes(activeFilter));
 
   return (
+    <section id="projects" className="py-20 bg-white dark:bg-gray-900 transition-colors">
+    </section>
   );
 }
 
