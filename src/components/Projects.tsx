@@ -12,6 +12,20 @@ interface Project {
   featured: boolean;
 }
 
+const Projects: React.FC = () => {
+  const [activeFilter, setActiveFilter] = useState('All');
 
+  const projects: Project[] = [
+    
+  ];
+
+  const filters = [];
+
+  const filteredProjects = activeFilter === 'All'
+    ? projects
+    : projects.filter(project => project.tags.includes(activeFilter));
+
+ 
+}
 
 export default Projects;
