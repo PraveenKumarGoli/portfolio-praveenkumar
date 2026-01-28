@@ -37,7 +37,7 @@ const About: React.FC = () => {
               A passionate Full Stack Developer and ASP.NET MVC specialist with a keen eye for design, adept at building seamless user experiences and robust, scalable backend solutions.
             </h3>
             <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
-              I'm Praveen Kumar Goli, Software Engineer with 6 year and 6 months of comprehensive ASP.NET MVC experience in Design & Deploy application using .NET, Angular, SQL and Azure. Experience in Retail & Logistics project (FedEx) and TNT Desktop applications and internal tool development domains.
+              I'm Praveen Kumar Goli, Software Engineer with 7+ year of comprehensive ASP.NET MVC experience in Design & Deploy application using .NET, Angular, SQL and Azure. Experience in Retail & Logistics project (FedEx) and TNT Desktop applications and internal tool development domains.
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
